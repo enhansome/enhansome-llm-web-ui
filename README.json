@@ -1,0 +1,402 @@
+{
+  "items": [
+    {
+      "description": "In this repository, we explore and catalogue the most intuitive, feature-rich, and innovative web interfaces for interacting with LLMs. These UIs range from simple chatbots to comprehensive platforms equipped with functionalities like PDF generation, web search, and more.\n🎙️ Contributing: If you have a LLM WebUI you'd love to share, please submit a pull request.\n✅ Recognition: Featured UIs are recognized for their contribution to the community.\n⏳ Simplicity: We prefer direct contributions via PR for faster updates.\nYour stars ⭐ and recommendations 🫶 help grow this vibrant community!",
+      "items": [],
+      "title": "🚀 About Awesome LLM WebUIs"
+    },
+    {
+      "description": "Stay tuned for updates and new additions to the collection of LLM WebUIs.",
+      "items": [],
+      "title": "🌐 Latest News & Updates ✨"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open WebUI (formerly: Ollama WebUI)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:13:48Z",
+            "owner": "open-webui",
+            "repo": "open-webui",
+            "stars": 148629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobe Chat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:34:35Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT-4All",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-27T20:05:19Z",
+            "owner": "nomic-ai",
+            "repo": "gpt4all",
+            "stars": 77412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text Generation WebUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T03:10:11Z",
+            "owner": "oobabooga",
+            "repo": "textgen",
+            "stars": 47542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamlit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:33:13Z",
+            "owner": "streamlit",
+            "repo": "streamlit",
+            "stars": 45541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:42:13Z",
+            "owner": "gradio-app",
+            "repo": "gradio",
+            "stars": 43354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silly Tavern",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T22:43:10Z",
+            "owner": "SillyTavern",
+            "repo": "SillyTavern",
+            "stars": 32023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:15:01Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H2O GPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-09T23:30:01Z",
+            "owner": "h2oai",
+            "repo": "h2ogpt",
+            "stars": 11974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KoboldAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T13:35:09Z",
+            "owner": "LostRuins",
+            "repo": "koboldcpp",
+            "stars": 11393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugging Face Chat UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:36:16Z",
+            "owner": "huggingface",
+            "repo": "chat-ui",
+            "stars": 10884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verba by Weaviate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-08T09:25:18Z",
+            "owner": "weaviate",
+            "repo": "Verba",
+            "stars": 7713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serge Chat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2025-11-21T08:07:36Z",
+            "owner": "serge-chat",
+            "repo": "serge",
+            "stars": 5716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casibase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T14:38:08Z",
+            "owner": "the-open-agent",
+            "repo": "openagent",
+            "stars": 5510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lollms WebUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:18:09Z",
+            "owner": "ParisNeo",
+            "repo": "lollms-webui",
+            "stars": 4782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat UI Kit for React by ChatScope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-15T07:24:19Z",
+            "owner": "chatscope",
+            "repo": "chat-ui-kit-react",
+            "stars": 1768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amica",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-23T20:57:17Z",
+            "owner": "semperai",
+            "repo": "amica",
+            "stars": 1587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-05T22:50:35Z",
+            "owner": "turboderp-org",
+            "repo": "exui",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChainFury",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-04T01:18:20Z",
+            "owner": "NimbleBoxAI",
+            "repo": "ChainFury",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reflex Chat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:38:31Z",
+            "owner": "reflex-dev",
+            "repo": "reflex-chat",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spellbook Docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-01T15:46:58Z",
+            "owner": "noco-ai",
+            "repo": "spellbook-docker",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatbot-UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-17T21:11:09Z",
+            "owner": "ChristophHandschuh",
+            "repo": "chatbot-ui",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoLLMChat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-03T05:54:51Z",
+            "owner": "zrg-team",
+            "repo": "NoLLMChat",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas UI 3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:16:10Z",
+            "owner": "sandialabs",
+            "repo": "atlas-ui-3",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Multitool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-13T21:01:56Z",
+            "owner": "sedwards2009",
+            "repo": "llm-multitool",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Messenger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-27T17:54:34Z",
+            "owner": "shinomakoi",
+            "repo": "AI-Messenger",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "📚 Contents"
+    },
+    {
+      "description": "Instructions on how to set up and run the listed WebUIs are provided within their respective repositories.",
+      "items": [],
+      "title": "📎 Installation Guides"
+    },
+    {
+      "description": "We welcome all contributions to improve the repository. Please read through the contribution guidelines before making a pull request.\nLast updated on: 27/11/2023",
+      "items": [],
+      "title": "🤝 Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:33.139Z",
+    "original_repository": "JShollaj/awesome-llm-web-ui",
+    "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
+    "enhanced_repository": "enhansome/enhansome-llm-web-ui",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLM WebUIs with stars"
+  }
+}
