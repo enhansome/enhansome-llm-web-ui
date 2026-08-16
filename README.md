@@ -24,30 +24,30 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 148,811 | 🐛 394 | 🌐 Python | 📅 2026-08-14
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 81,698 | 🐛 738 | 🌐 TypeScript | 📅 2026-08-15
-* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,409 | 🐛 774 | 🌐 C++ | 📅 2025-05-27
-* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,546 | 🐛 832 | 🌐 Python | 📅 2026-06-02
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,548 | 🐛 1,208 | 🌐 Python | 📅 2026-08-14
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,366 | 🐛 182 | 🌐 Python | 📅 2026-08-14
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 32,124 | 🐛 581 | 🌐 JavaScript | 📅 2026-07-11
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 148,880 | 🐛 399 | 🌐 Python | 📅 2026-08-15
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 81,718 | 🐛 744 | 🌐 TypeScript | 📅 2026-08-16
+* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,411 | 🐛 774 | 🌐 C++ | 📅 2025-05-27
+* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,551 | 🐛 833 | 🌐 Python | 📅 2026-06-02
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,554 | 🐛 1,210 | 🌐 Python | 📅 2026-08-15
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,367 | 🐛 184 | 🌐 Python | 📅 2026-08-15
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 32,160 | 🐛 583 | 🌐 JavaScript | 📅 2026-07-11
 * [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,207 | 🐛 24 | 🌐 Python | 📅 2026-07-18
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,406 | 🐛 495 | 🌐 C++ | 📅 2026-08-14
-* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 10,887 | 🐛 268 | 🌐 TypeScript | 📅 2026-08-14
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,416 | 🐛 496 | 🌐 C++ | 📅 2026-08-15
+* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 10,891 | 🐛 269 | 🌐 TypeScript | 📅 2026-08-15
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,520 | 🐛 48 | 🌐 Go | 📅 2026-08-07
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,515 | 🐛 48 | 🌐 Go | 📅 2026-08-15
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,782 | 🐛 183 | 🌐 Python | 📅 2026-08-13
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,768 | 🐛 60 | 🌐 JavaScript | 📅 2025-05-15
-* [Amica](https://github.com/semperai/amica) ⭐ 1,589 | 🐛 22 | 🌐 TypeScript | 📅 2025-07-23
+* [Amica](https://github.com/semperai/amica) ⭐ 1,590 | 🐛 22 | 🌐 TypeScript | 📅 2025-07-23
 * [Exui](https://github.com/turboderp/exui) ⭐ 513 | 🐛 37 | 🌐 JavaScript | 📅 2025-02-05
 * [ChainFury](https://github.com/NimbleBoxAI/ChainFury) ⚠️ Archived
 * [Reflex Chat](https://github.com/reflex-dev/reflex-chat) ⭐ 342 | 🐛 2 | 🌐 Python | 📅 2026-06-02
-* [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 171 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
+* [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 170 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
 * [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui) ⭐ 109 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17
 * [NoLLMChat](https://github.com/zrg-team/NoLLMChat) ⭐ 56 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03
-* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 41 | 🐛 50 | 🌐 Python | 📅 2026-08-15
+* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 41 | 🐛 54 | 🌐 Python | 📅 2026-08-15
 * [LLM Multitool](https://github.com/sedwards2009/llm-multitool) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2024-06-13
 * [AI Messenger](https://github.com/shinomakoi/AI-Messenger) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-12-27
 * [Sanctum AI](https://sanctum.ai/)
@@ -68,4 +68,4 @@ We welcome all contributions to improve the repository. Please read through the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
