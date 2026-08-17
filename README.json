@@ -24,7 +24,7 @@
             "last_commit": "2026-08-15T07:10:16Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 148880
+            "stars": 148968
           }
         },
         {
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T02:29:05Z",
+            "last_commit": "2026-08-17T02:33:48Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 81718
+            "stars": 81748
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77411
+            "stars": 77412
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-06-02T03:10:11Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47551
+            "stars": 47550
           }
         },
         {
@@ -77,10 +77,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T18:17:13Z",
+            "last_commit": "2026-08-16T04:44:00Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45554
+            "stars": 45555
           }
         },
         {
@@ -91,10 +91,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:07:06Z",
+            "last_commit": "2026-08-17T00:59:53Z",
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43367
+            "stars": 43371
           }
         },
         {
@@ -105,10 +105,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-11T22:43:10Z",
+            "last_commit": "2026-08-17T01:33:13Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32160
+            "stars": 32220
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11974
+            "stars": 11973
           }
         },
         {
@@ -147,10 +147,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T14:50:06Z",
+            "last_commit": "2026-08-16T13:23:10Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11416
+            "stars": 11426
           }
         },
         {
@@ -161,10 +161,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T13:35:37Z",
+            "last_commit": "2026-08-16T14:27:27Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10891
+            "stars": 10893
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-15T15:42:35Z",
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5515
+            "stars": 5519
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2025-05-15T07:24:19Z",
             "owner": "chatscope",
             "repo": "chat-ui-kit-react",
-            "stars": 1768
+            "stars": 1769
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2025-07-23T20:57:17Z",
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1590
+            "stars": 1591
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:36:18.572Z",
+    "last_updated": "2026-08-17T02:35:56.465Z",
     "original_repository": "JShollaj/awesome-llm-web-ui",
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
     "enhanced_repository": "enhansome/enhansome-llm-web-ui",
