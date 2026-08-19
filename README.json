@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "In this repository, we explore and catalogue the most intuitive, feature-rich, and innovative web interfaces for interacting with LLMs. These UIs range from simple chatbots to comprehensive platforms equipped with functionalities like PDF generation, web search, and more.\n🎙️ Contributing: If you have a LLM WebUI you'd love to share, please submit a pull request.\n✅ Recognition: Featured UIs are recognized for their contribution to the community.\n⏳ Simplicity: We prefer direct contributions via PR for faster updates.\nYour stars ⭐ and recommendations 🫶 help grow this vibrant community!",
-      "items": [],
-      "title": "🚀 About Awesome LLM WebUIs"
-    },
-    {
-      "description": "Stay tuned for updates and new additions to the collection of LLM WebUIs.",
-      "items": [],
-      "title": "🌐 Latest News & Updates ✨"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-19T02:30:44Z",
+            "last_commit": "2026-08-19T05:09:44Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149173
+            "stars": 149225
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:12:58Z",
+            "last_commit": "2026-08-19T12:37:14Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 81813
+            "stars": 81819
           }
         },
         {
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 619959033,
             "language": "C++",
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
@@ -62,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580642043,
             "language": "Python",
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47549
+            "stars": 47552
           }
         },
         {
@@ -76,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-19T02:31:03Z",
+            "last_commit": "2026-08-19T12:40:45Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45565
+            "stars": 45573
           }
         },
         {
@@ -90,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-18T23:40:50Z",
+            "last_commit": "2026-08-19T04:20:54Z",
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43378
+            "stars": 43385
           }
         },
         {
@@ -104,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599524116,
             "language": "JavaScript",
             "last_commit": "2026-08-17T01:33:13Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32333
+            "stars": 32363
           }
         },
         {
@@ -118,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644715009,
             "language": "Python",
-            "last_commit": "2026-08-18T04:12:02Z",
+            "last_commit": "2026-08-19T08:10:55Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22206
+            "stars": 22204
           }
         },
         {
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 618613272,
             "language": "Python",
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
@@ -146,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614637892,
             "language": "C++",
             "last_commit": "2026-08-18T10:20:08Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11451
+            "stars": 11454
           }
         },
         {
@@ -160,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:58:11Z",
+            "last_commit": "2026-08-19T11:12:43Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10895
+            "stars": 10896
           }
         },
         {
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 672002598,
             "language": "Python",
             "last_commit": "2026-06-08T09:25:18Z",
             "owner": "weaviate",
@@ -188,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 615973283,
             "language": "Svelte",
             "last_commit": "2025-11-21T08:07:36Z",
             "owner": "serge-chat",
@@ -202,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267749451,
             "language": "Go",
             "last_commit": "2026-08-18T10:07:48Z",
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5532
+            "stars": 5535
           }
         },
         {
@@ -216,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 624516901,
             "language": "Python",
             "last_commit": "2026-08-13T09:10:26Z",
             "owner": "ParisNeo",
@@ -230,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290567617,
             "language": "JavaScript",
             "last_commit": "2025-05-15T07:24:19Z",
             "owner": "chatscope",
@@ -244,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711338659,
             "language": "TypeScript",
             "last_commit": "2025-07-23T20:57:17Z",
             "owner": "semperai",
@@ -258,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711618385,
             "language": "JavaScript",
             "last_commit": "2025-02-05T22:50:35Z",
             "owner": "turboderp-org",
@@ -272,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 624853631,
             "language": "Python",
             "last_commit": "2024-04-04T01:18:20Z",
             "owner": "NimbleBoxAI",
@@ -286,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 634717328,
             "language": "Python",
             "last_commit": "2026-06-02T18:38:31Z",
             "owner": "reflex-dev",
@@ -300,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715248012,
             "language": "Shell",
             "last_commit": "2024-05-01T15:46:58Z",
             "owner": "noco-ai",
@@ -314,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 892261259,
             "language": "TypeScript",
             "last_commit": "2025-09-17T21:11:09Z",
             "owner": "ChristophHandschuh",
@@ -328,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 865324021,
             "language": "TypeScript",
             "last_commit": "2025-09-03T05:54:51Z",
             "owner": "zrg-team",
@@ -342,8 +355,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1081555997,
             "language": "Python",
-            "last_commit": "2026-08-19T00:42:10Z",
+            "last_commit": "2026-08-19T04:43:32Z",
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 41
@@ -356,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658117196,
             "language": "Go",
             "last_commit": "2024-06-13T21:01:56Z",
             "owner": "sedwards2009",
@@ -370,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 719278725,
             "language": "Python",
             "last_commit": "2023-12-27T17:54:34Z",
             "owner": "shinomakoi",
@@ -379,21 +395,12 @@
         }
       ],
       "title": "📚 Contents"
-    },
-    {
-      "description": "Instructions on how to set up and run the listed WebUIs are provided within their respective repositories.",
-      "items": [],
-      "title": "📎 Installation Guides"
-    },
-    {
-      "description": "We welcome all contributions to improve the repository. Please read through the contribution guidelines before making a pull request.\nLast updated on: 27/11/2023",
-      "items": [],
-      "title": "🤝 Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:33:34.193Z",
+    "last_updated": "2026-08-19T12:41:29.439Z",
     "original_repository": "JShollaj/awesome-llm-web-ui",
+    "original_repository_id": 723915346,
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
     "enhanced_repository": "enhansome/enhansome-llm-web-ui",
     "enhanced_repository_description": null,
