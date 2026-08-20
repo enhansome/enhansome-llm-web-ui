@@ -12,10 +12,10 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-19T05:09:44Z",
+            "last_commit": "2026-08-20T01:15:01Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149225
+            "stars": 149284
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:37:14Z",
+            "last_commit": "2026-08-20T02:16:22Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 81819
+            "stars": 81833
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77404
+            "stars": 77407
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47552
+            "stars": 47555
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-19T12:40:45Z",
+            "last_commit": "2026-08-20T01:09:52Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45573
+            "stars": 45574
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-19T04:20:54Z",
+            "last_commit": "2026-08-20T01:07:31Z",
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43385
+            "stars": 43389
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 599524116,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T01:33:13Z",
+            "last_commit": "2026-08-19T21:47:16Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32363
+            "stars": 32386
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-19T08:10:55Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22204
+            "stars": 22203
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-18T10:20:08Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11454
+            "stars": 11466
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:12:43Z",
+            "last_commit": "2026-08-19T19:31:27Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10896
+            "stars": 10899
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-18T10:07:48Z",
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5535
+            "stars": 5537
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 1081555997,
             "language": "Python",
-            "last_commit": "2026-08-19T04:43:32Z",
+            "last_commit": "2026-08-19T18:13:11Z",
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 41
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:29.439Z",
+    "last_updated": "2026-08-20T02:32:26.474Z",
     "original_repository": "JShollaj/awesome-llm-web-ui",
     "original_repository_id": 723915346,
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
