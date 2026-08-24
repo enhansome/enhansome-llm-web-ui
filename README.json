@@ -12,10 +12,10 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-23T21:11:54Z",
+            "last_commit": "2026-08-24T11:36:44Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149694
+            "stars": 149762
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:35:22Z",
+            "last_commit": "2026-08-24T14:19:17Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 81951
+            "stars": 81967
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77396
+            "stars": 77393
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47564
+            "stars": 47569
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-24T01:00:26Z",
+            "last_commit": "2026-08-24T14:11:02Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45599
+            "stars": 45602
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-23T20:47:57Z",
+            "last_commit": "2026-08-24T11:14:07Z",
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43409
+            "stars": 43412
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-21T04:35:51Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32565
+            "stars": 32600
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-21T01:31:02Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22208
+            "stars": 22209
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-10-09T23:30:01Z",
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11968
+            "stars": 11969
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-23T07:37:35Z",
+            "last_commit": "2026-08-24T13:15:21Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11507
+            "stars": 11510
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-21T20:03:54Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10906
+            "stars": 10907
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-08T09:25:18Z",
             "owner": "weaviate",
             "repo": "Verba",
-            "stars": 7710
+            "stars": 7711
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-20T18:00:55Z",
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5555
+            "stars": 5556
           }
         },
         {
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 1081555997,
             "language": "Python",
-            "last_commit": "2026-08-24T01:29:38Z",
+            "last_commit": "2026-08-24T14:16:59Z",
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 41
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:39:23.289Z",
+    "last_updated": "2026-08-24T14:20:29.426Z",
     "original_repository": "JShollaj/awesome-llm-web-ui",
     "original_repository_id": 723915346,
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
