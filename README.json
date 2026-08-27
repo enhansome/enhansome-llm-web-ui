@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T01:45:36Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150082
+            "stars": 150086
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:05:49Z",
+            "last_commit": "2026-08-27T11:36:26Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 82030
+            "stars": 82032
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77395
+            "stars": 77396
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-27T10:47:51Z",
+            "last_commit": "2026-08-27T11:50:00Z",
             "owner": "streamlit",
             "repo": "streamlit",
             "stars": 45622
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-27T06:08:27Z",
+            "last_commit": "2026-08-27T11:31:52Z",
             "owner": "gradio-app",
             "repo": "gradio",
             "stars": 43429
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-26T23:33:52Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32717
+            "stars": 32718
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-26T04:52:30Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22205
+            "stars": 22206
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:13:57Z",
+            "last_commit": "2026-08-27T11:50:33Z",
             "owner": "huggingface",
             "repo": "chat-ui",
             "stars": 10914
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-13T09:10:26Z",
             "owner": "ParisNeo",
             "repo": "lollms-webui",
-            "stars": 4785
+            "stars": 4786
           }
         },
         {
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:14:27.699Z",
+    "last_updated": "2026-08-27T11:51:07.581Z",
     "original_repository_info": {
       "archived": false,
       "id": 723915346,
