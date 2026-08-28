@@ -12,11 +12,12 @@
             "archived": false,
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-26T01:45:36Z",
+            "last_commit": "2026-08-27T23:24:19Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150086
-          }
+            "stars": 150208
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:36:26Z",
+            "last_commit": "2026-08-28T12:54:41Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 82032
-          }
+            "stars": 82063
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2025-05-27T20:05:19Z",
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77396
-          }
+            "stars": 77397
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-17T17:38:16Z",
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47587
-          }
+            "stars": 47589
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-27T11:50:00Z",
+            "last_commit": "2026-08-28T12:58:11Z",
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45622
-          }
+            "stars": 45628
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-27T11:31:52Z",
+            "last_commit": "2026-08-28T03:41:49Z",
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43429
-          }
+            "stars": 43434
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-26T23:33:52Z",
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32718
-          }
+            "stars": 32755
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2026-08-26T04:52:30Z",
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22206
-          }
+            "stars": 22207
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "h2oai",
             "repo": "h2ogpt",
             "stars": 11969
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-26T04:49:13Z",
+            "last_commit": "2026-08-28T11:49:28Z",
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11550
-          }
+            "stars": 11555
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:50:33Z",
+            "last_commit": "2026-08-27T17:05:04Z",
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10914
-          }
+            "stars": 10916
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "weaviate",
             "repo": "Verba",
             "stars": 7711
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "serge-chat",
             "repo": "serge",
             "stars": 5714
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2026-08-20T18:00:55Z",
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5573
-          }
+            "stars": 5576
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "ParisNeo",
             "repo": "lollms-webui",
             "stars": 4786
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "chatscope",
             "repo": "chat-ui-kit-react",
             "stars": 1772
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -255,8 +271,9 @@
             "last_commit": "2025-07-23T20:57:17Z",
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1593
-          }
+            "stars": 1594
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "turboderp-org",
             "repo": "exui",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "NimbleBoxAI",
             "repo": "ChainFury",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "reflex-dev",
             "repo": "reflex-chat",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "noco-ai",
             "repo": "spellbook-docker",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "ChristophHandschuh",
             "repo": "chatbot-ui",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "zrg-team",
             "repo": "NoLLMChat",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -357,11 +380,12 @@
             "archived": false,
             "id": 1081555997,
             "language": "Python",
-            "last_commit": "2026-08-27T06:23:20Z",
+            "last_commit": "2026-08-28T04:34:42Z",
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "sedwards2009",
             "repo": "llm-multitool",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         },
         {
           "node_type": "item",
@@ -391,14 +416,15 @@
             "owner": "shinomakoi",
             "repo": "AI-Messenger",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T12:58:16.366Z"
         }
       ],
       "title": "📚 Contents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:07.581Z",
+    "last_updated": "2026-08-28T12:58:16.366Z",
     "original_repository_info": {
       "archived": false,
       "id": 723915346,
@@ -406,7 +432,7 @@
       "last_commit": "2026-02-24T06:54:53Z",
       "owner": "JShollaj",
       "repo": "awesome-llm-web-ui",
-      "stars": 597
+      "stars": 596
     },
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
     "enhanced_repository": "enhansome/enhansome-llm-web-ui",
