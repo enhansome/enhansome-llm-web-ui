@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+            "homepage": "https://openwebui.com",
             "id": 701547123,
             "language": "Python",
-            "last_commit": "2026-08-27T23:24:19Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:31:09Z",
+            "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150208
+            "stars": 150265,
+            "topics": [
+              "ai",
+              "llm",
+              "llm-ui",
+              "llm-webui",
+              "llms",
+              "mcp",
+              "ollama",
+              "ollama-webui",
+              "open-webui",
+              "openai",
+              "openapi",
+              "rag",
+              "self-hosted",
+              "ui",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -26,12 +47,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+            "homepage": "https://lobehub.com",
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:54:41Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:37:16Z",
+            "open_issues": 835,
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 82063
+            "stars": 82078,
+            "topics": [
+              "agent",
+              "agent-collaboration",
+              "agent-harness",
+              "ai",
+              "cao",
+              "chatgpt",
+              "chief-agent-operator",
+              "claude",
+              "deepseek",
+              "fable",
+              "gemini",
+              "glm",
+              "gpt",
+              "knowledge-base",
+              "loop-engineering",
+              "mcp",
+              "openai",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -42,12 +87,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+            "homepage": "https://nomic.ai/gpt4all",
             "id": 619959033,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-05-27T20:05:19Z",
+            "open_issues": 773,
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77397
+            "stars": 77397,
+            "topics": [
+              "ai-chat",
+              "llm-inference"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -58,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+            "homepage": null,
             "id": 580642043,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T17:38:16Z",
+            "open_issues": 840,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47589
+            "stars": 47591,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -74,12 +132,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streamlit — A faster way to build and share data apps.",
+            "homepage": "https://streamlit.io",
             "id": 204086862,
             "language": "Python",
-            "last_commit": "2026-08-28T12:58:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:16:36Z",
+            "open_issues": 1182,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45628
+            "stars": 45632,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "developer-tools",
+              "machine-learning",
+              "python",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -90,12 +162,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "homepage": "http://www.gradio.app",
             "id": 162405963,
             "language": "Python",
-            "last_commit": "2026-08-28T03:41:49Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:27:07Z",
+            "open_issues": 160,
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43434
+            "stars": 43441,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "deep-learning",
+              "deploy",
+              "gradio",
+              "gradio-interface",
+              "interface",
+              "machine-learning",
+              "models",
+              "python",
+              "python-notebook",
+              "ui",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -106,12 +198,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM Frontend for Power Users.",
+            "homepage": "https://sillytavern.app",
             "id": 599524116,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T23:33:52Z",
+            "open_issues": 597,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32755
+            "stars": 32771,
+            "topics": [
+              "ai",
+              "chat",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -122,12 +223,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+            "homepage": null,
             "id": 644715009,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:52:30Z",
+            "open_issues": 22,
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22207
+            "stars": 22206,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -138,12 +244,32 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/",
+            "homepage": "http://h2o.ai",
             "id": 618613272,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-09T23:30:01Z",
+            "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11969
+            "stars": 11971,
+            "topics": [
+              "ai",
+              "chatgpt",
+              "embeddings",
+              "fedramp",
+              "generative",
+              "gpt",
+              "gpt4all",
+              "llama2",
+              "llm",
+              "mixtral",
+              "pdf",
+              "private",
+              "privategpt",
+              "vectorstore"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -154,12 +280,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run GGUF models easily with a KoboldAI UI. One File. Zero Install.",
+            "homepage": "https://github.com/LostRuins/koboldcpp/releases/latest",
             "id": 614637892,
             "language": "C++",
-            "last_commit": "2026-08-28T11:49:28Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:22:33Z",
+            "open_issues": 504,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11555
+            "stars": 11559,
+            "topics": [
+              "gemma",
+              "ggml",
+              "gguf",
+              "koboldai",
+              "koboldcpp",
+              "language-model",
+              "llama",
+              "llamacpp",
+              "llm",
+              "mistral"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -170,12 +312,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source codebase powering HuggingChat",
+            "homepage": "https://huggingface.co/chat",
             "id": 603085008,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:05:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:15:00Z",
+            "open_issues": 274,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10916
+            "stars": 10918,
+            "topics": [
+              "chatgpt",
+              "hacktoberfest",
+              "huggingface",
+              "llm",
+              "svelte",
+              "svelte-kit",
+              "sveltekit",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -186,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "homepage": null,
             "id": 672002598,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-08T09:25:18Z",
+            "open_issues": 78,
             "owner": "weaviate",
             "repo": "Verba",
-            "stars": 7711
+            "stars": 7711,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -202,12 +364,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+            "homepage": "https://serge.chat",
             "id": 615973283,
             "language": "Svelte",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T08:07:36Z",
+            "open_issues": 33,
             "owner": "serge-chat",
             "repo": "serge",
-            "stars": 5714
+            "stars": 5714,
+            "topics": [
+              "alpaca",
+              "docker",
+              "fastapi",
+              "llama",
+              "llamacpp",
+              "nginx",
+              "python",
+              "svelte",
+              "sveltekit",
+              "tailwindcss",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -218,12 +397,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+            "homepage": "https://www.openagentai.org/",
             "id": 267749451,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T18:00:55Z",
+            "open_issues": 48,
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5576
+            "stars": 5581,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-ai",
+              "agi",
+              "chatbot",
+              "chatgpt",
+              "gpt",
+              "harness",
+              "hermes-agent",
+              "knowledge-base",
+              "langchain",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "multi-agent",
+              "openagent",
+              "openai",
+              "openclaw",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -234,12 +438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lord of Large Language and Multi modal Systems Web User Interface",
+            "homepage": "https://lollms.com",
             "id": 624516901,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T09:10:26Z",
+            "open_issues": 183,
             "owner": "ParisNeo",
             "repo": "lollms-webui",
-            "stars": 4786
+            "stars": 4786,
+            "topics": [
+              "ai",
+              "llm",
+              "text-generation"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -250,12 +463,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own chat UI with React components in few minutes. Chat UI Kit from chatscope is an open source UI toolkit for developing web chat applications.",
+            "homepage": "https://chatscope.io",
             "id": 290567617,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-15T07:24:19Z",
+            "open_issues": 60,
             "owner": "chatscope",
             "repo": "chat-ui-kit-react",
-            "stars": 1772
+            "stars": 1772,
+            "topics": [
+              "chat",
+              "comments",
+              "communication",
+              "components",
+              "conversation",
+              "feed",
+              "friends",
+              "frontend",
+              "instant-messaging",
+              "interface",
+              "library",
+              "messenger",
+              "react",
+              "reusable",
+              "social",
+              "talk",
+              "toolkit",
+              "ui",
+              "ui-kit",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -266,12 +505,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.",
+            "homepage": "https://heyamica.com",
             "id": 711338659,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-23T20:57:17Z",
+            "open_issues": 19,
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1594
+            "stars": 1593,
+            "topics": [
+              "ai",
+              "assistant-chat-bots",
+              "computer-vision",
+              "llm",
+              "speech-recognition",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -282,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web UI for ExLlamaV2",
+            "homepage": null,
             "id": 711618385,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-05T22:50:35Z",
+            "open_issues": 37,
             "owner": "turboderp-org",
             "repo": "exui",
-            "stars": 515
+            "stars": 515,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -298,12 +554,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦋 Production grade chaining engine behind TuneChat. Self host today!",
+            "homepage": "https://nimbleboxai.github.io/ChainFury/",
             "id": 624853631,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-04T01:18:20Z",
+            "open_issues": 17,
             "owner": "NimbleBoxAI",
             "repo": "ChainFury",
-            "stars": 453
+            "stars": 453,
+            "topics": [
+              "chat-applications",
+              "chatbot-framework",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "large-language-models",
+              "llm",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -314,12 +583,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ChatGPT clone built in Reflex",
+            "homepage": "https://chat.reflex.run/",
             "id": 634717328,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T18:38:31Z",
+            "open_issues": 2,
             "owner": "reflex-dev",
             "repo": "reflex-chat",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "chat-application",
+              "chatgpt",
+              "llms",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -330,12 +609,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI stack for interacting with LLMs, Stable Diffusion, Whisper, xTTS and many other AI models",
+            "homepage": "https://github.com/noco-ai/spellbook-docker/wiki",
             "id": 715248012,
             "language": "Shell",
+            "license": "OSL-3.0",
             "last_commit": "2024-05-01T15:46:58Z",
+            "open_issues": 2,
             "owner": "noco-ai",
             "repo": "spellbook-docker",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "automatic-speech-recognition",
+              "bark",
+              "llama2",
+              "llm-inference",
+              "mixtral",
+              "musicgeneration",
+              "stable-diffusion",
+              "text-to-speech",
+              "whisper",
+              "xttsv2"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -346,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple chatbot ui template made with react",
+            "homepage": null,
             "id": 892261259,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T21:11:09Z",
+            "open_issues": 0,
             "owner": "ChristophHandschuh",
             "repo": "chatbot-ui",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -362,12 +662,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Not-Only LLM Chat. An AI application that enhances creativity and user experience beyond just LLM chat. Noted: Seems it beta version of there is issue with DB please clear site Data in debug ",
+            "homepage": "https://nollm.netlify.app/NoLLMChat",
             "id": 865324021,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-09-03T05:54:51Z",
+            "open_issues": 0,
             "owner": "zrg-team",
             "repo": "NoLLMChat",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "ai",
+              "deepseek",
+              "deepseek-r1",
+              "flow",
+              "groq",
+              "langchain",
+              "llm",
+              "mcp",
+              "mcp-client",
+              "openai",
+              "reactjs",
+              "vector-database",
+              "visual-studio-code",
+              "vitejs",
+              "wasm",
+              "webllm",
+              "wllama",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -378,12 +702,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LLM chat UI.",
+            "homepage": null,
             "id": 1081555997,
             "language": "Python",
-            "last_commit": "2026-08-28T04:34:42Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:14:39Z",
+            "open_issues": 45,
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "scr-3300",
+              "snl-applications"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -394,12 +726,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web UI for working with large language models",
+            "homepage": null,
             "id": 658117196,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-13T21:01:56Z",
+            "open_issues": 2,
             "owner": "sedwards2009",
             "repo": "llm-multitool",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "chatgpt",
+              "chatgpt-api",
+              "go",
+              "golang",
+              "llm",
+              "ollama"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         },
@@ -410,12 +756,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A QT GUI for large language models",
+            "homepage": null,
             "id": 719278725,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-27T17:54:34Z",
+            "open_issues": 0,
             "owner": "shinomakoi",
             "repo": "AI-Messenger",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "exllama",
+              "llama",
+              "llamacpp",
+              "qt6"
+            ]
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
         }
@@ -424,15 +780,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:58:16.366Z",
+    "last_updated": "2026-08-29T04:41:43.789Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Large Language Model (LLM) Web User Interfaces.",
+      "homepage": null,
       "id": 723915346,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-24T06:54:53Z",
+      "open_issues": 10,
       "owner": "JShollaj",
       "repo": "awesome-llm-web-ui",
-      "stars": 596
+      "stars": 596,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "1c13ba375818abe9c43d83bffe33cc5eaf899876",
     "enhanced_repository": "enhansome/enhansome-llm-web-ui",
