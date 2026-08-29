@@ -19,7 +19,7 @@
             "open_issues": 226,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 150265,
+            "stars": 150274,
             "topics": [
               "ai",
               "llm",
@@ -52,8 +52,8 @@
             "id": 643445235,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:37:16Z",
-            "open_issues": 835,
+            "last_commit": "2026-08-29T07:43:04Z",
+            "open_issues": 838,
             "owner": "lobehub",
             "repo": "lobehub",
             "stars": 82078,
@@ -120,7 +120,7 @@
             "open_issues": 840,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47591,
+            "stars": 47592,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
@@ -137,8 +137,8 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T04:16:36Z",
-            "open_issues": 1182,
+            "last_commit": "2026-08-29T07:54:18Z",
+            "open_issues": 1181,
             "owner": "streamlit",
             "repo": "streamlit",
             "stars": 45632,
@@ -168,10 +168,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T03:27:07Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43441,
+            "stars": 43440,
             "topics": [
               "data-analysis",
               "data-science",
@@ -207,7 +207,7 @@
             "open_issues": 597,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 32771,
+            "stars": 32775,
             "topics": [
               "ai",
               "chat",
@@ -232,7 +232,7 @@
             "open_issues": 22,
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22206,
+            "stars": 22205,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
@@ -286,10 +286,10 @@
             "language": "C++",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T03:22:33Z",
-            "open_issues": 504,
+            "open_issues": 505,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11559,
+            "stars": 11564,
             "topics": [
               "gemma",
               "ggml",
@@ -707,8 +707,8 @@
             "id": 1081555997,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-29T04:14:39Z",
-            "open_issues": 45,
+            "last_commit": "2026-08-29T04:46:42Z",
+            "open_issues": 42,
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 41,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:43.789Z",
+    "last_updated": "2026-08-29T07:55:15.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Large Language Model (LLM) Web User Interfaces.",
