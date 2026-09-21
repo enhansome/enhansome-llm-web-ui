@@ -24,20 +24,20 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 152,592 | 🐛 322 | 🌐 Python | 📅 2026-09-19
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 82,668 | 🐛 930 | 🌐 TypeScript | 📅 2026-09-20
-* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,388 | 🐛 771 | 🌐 C++ | 📅 2025-05-27
-* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,687 | 🐛 841 | 🌐 Python | 📅 2026-08-17
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,797 | 🐛 1,167 | 🌐 Python | 📅 2026-09-20
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,586 | 🐛 106 | 🌐 Python | 📅 2026-09-19
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 33,581 | 🐛 623 | 🌐 JavaScript | 📅 2026-09-14
-* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,199 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 152,663 | 🐛 316 | 🌐 Python | 📅 2026-09-21
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 82,712 | 🐛 943 | 🌐 TypeScript | 📅 2026-09-21
+* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,391 | 🐛 771 | 🌐 C++ | 📅 2025-05-27
+* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,693 | 🐛 841 | 🌐 Python | 📅 2026-08-17
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,804 | 🐛 1,167 | 🌐 Python | 📅 2026-09-21
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,588 | 🐛 106 | 🌐 Python | 📅 2026-09-19
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 33,612 | 🐛 628 | 🌐 JavaScript | 📅 2026-09-14
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,200 | 🐛 22 | 🌐 Python | 📅 2026-08-26
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,805 | 🐛 525 | 🌐 C++ | 📅 2026-09-20
-* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 10,951 | 🐛 289 | 🌐 TypeScript | 📅 2026-09-18
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,820 | 🐛 525 | 🌐 C++ | 📅 2026-09-21
+* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 10,954 | 🐛 290 | 🌐 TypeScript | 📅 2026-09-20
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,628 | 🐛 45 | 🌐 Go | 📅 2026-09-17
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,638 | 🐛 45 | 🌐 Go | 📅 2026-09-17
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,789 | 🐛 172 | 🌐 Python | 📅 2026-09-10
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,778 | 🐛 60 | 🌐 JavaScript | 📅 2025-05-15
 * [Amica](https://github.com/semperai/amica) ⭐ 1,598 | 🐛 19 | 🌐 TypeScript | 📅 2025-07-23
@@ -47,7 +47,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 * [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 171 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
 * [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui) ⭐ 110 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17
 * [NoLLMChat](https://github.com/zrg-team/NoLLMChat) ⭐ 56 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03
-* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 43 | 🐛 46 | 🌐 Python | 📅 2026-09-20
+* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 43 | 🐛 48 | 🌐 Python | 📅 2026-09-21
 * [LLM Multitool](https://github.com/sedwards2009/llm-multitool) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2024-06-13
 * [AI Messenger](https://github.com/shinomakoi/AI-Messenger) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-12-27
 * [Sanctum AI](https://sanctum.ai/)
@@ -68,4 +68,4 @@ We welcome all contributions to improve the repository. Please read through the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
