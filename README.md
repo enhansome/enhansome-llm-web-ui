@@ -24,20 +24,20 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 153,834 | 🐛 276 | 🌐 Python | 📅 2026-10-02
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 82,954 | 🐛 998 | 🌐 TypeScript | 📅 2026-10-03
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 153,841 | 🐛 277 | 🌐 Python | 📅 2026-10-02
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 82,957 | 🐛 998 | 🌐 TypeScript | 📅 2026-10-03
 * [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,389 | 🐛 773 | 🌐 C++ | 📅 2025-05-27
 * [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,723 | 🐛 845 | 🌐 Python | 📅 2026-08-17
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,880 | 🐛 1,185 | 🌐 Python | 📅 2026-10-03
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,660 | 🐛 101 | 🌐 Python | 📅 2026-10-02
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 34,030 | 🐛 632 | 🌐 JavaScript | 📅 2026-10-02
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,882 | 🐛 1,185 | 🌐 Python | 📅 2026-10-03
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,662 | 🐛 101 | 🌐 Python | 📅 2026-10-02
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 34,033 | 🐛 633 | 🌐 JavaScript | 📅 2026-10-02
 * [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,194 | 🐛 22 | 🌐 Python | 📅 2026-08-26
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,926 | 🐛 527 | 🌐 C++ | 📅 2026-10-03
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 11,927 | 🐛 527 | 🌐 C++ | 📅 2026-10-03
 * [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 10,973 | 🐛 301 | 🌐 TypeScript | 📅 2026-10-02
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,684 | 🐛 52 | 🌐 Go | 📅 2026-10-01
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,684 | 🐛 51 | 🌐 Go | 📅 2026-10-01
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,790 | 🐛 173 | 🌐 Python | 📅 2026-10-02
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,779 | 🐛 60 | 🌐 JavaScript | 📅 2025-05-15
 * [Amica](https://github.com/semperai/amica) ⭐ 1,603 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22
