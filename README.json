@@ -15,11 +15,11 @@
             "id": 701547123,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T06:29:03Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-10T21:10:07Z",
+            "open_issues": 165,
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 154171,
+            "stars": 154250,
             "topics": [
               "ai",
               "llm",
@@ -52,11 +52,11 @@
             "id": 643445235,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T07:17:03Z",
-            "open_issues": 1068,
+            "last_commit": "2026-10-11T07:07:23Z",
+            "open_issues": 1098,
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 83095,
+            "stars": 83127,
             "topics": [
               "agent",
               "agent-collaboration",
@@ -96,7 +96,7 @@
             "open_issues": 773,
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77368,
+            "stars": 77367,
             "topics": [
               "ai-chat",
               "llm-inference"
@@ -120,7 +120,7 @@
             "open_issues": 847,
             "owner": "oobabooga",
             "repo": "textgen",
-            "stars": 47726,
+            "stars": 47729,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
@@ -137,11 +137,11 @@
             "id": 204086862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T05:33:34Z",
-            "open_issues": 1193,
+            "last_commit": "2026-10-11T07:10:34Z",
+            "open_issues": 1200,
             "owner": "streamlit",
             "repo": "streamlit",
-            "stars": 45930,
+            "stars": 45933,
             "topics": [
               "data-analysis",
               "data-science",
@@ -168,10 +168,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T18:51:53Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "gradio-app",
             "repo": "gradio",
-            "stars": 43701,
+            "stars": 43710,
             "topics": [
               "data-analysis",
               "data-science",
@@ -204,10 +204,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T22:05:54Z",
-            "open_issues": 642,
+            "open_issues": 655,
             "owner": "SillyTavern",
             "repo": "SillyTavern",
-            "stars": 34276,
+            "stars": 34307,
             "topics": [
               "ai",
               "chat",
@@ -232,7 +232,7 @@
             "open_issues": 22,
             "owner": "PromtEngineer",
             "repo": "localGPT",
-            "stars": 22190,
+            "stars": 22193,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
@@ -249,11 +249,11 @@
             "id": 614637892,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T06:09:30Z",
-            "open_issues": 530,
+            "last_commit": "2026-10-11T05:44:57Z",
+            "open_issues": 532,
             "owner": "LostRuins",
             "repo": "koboldcpp",
-            "stars": 11981,
+            "stars": 11988,
             "topics": [
               "gemma",
               "ggml",
@@ -285,7 +285,7 @@
             "open_issues": 328,
             "owner": "h2oai",
             "repo": "h2ogpt",
-            "stars": 11947,
+            "stars": 11945,
             "topics": [
               "ai",
               "chatgpt",
@@ -321,7 +321,7 @@
             "open_issues": 303,
             "owner": "huggingface",
             "repo": "chat-ui",
-            "stars": 10976,
+            "stars": 10978,
             "topics": [
               "chatgpt",
               "hacktoberfest",
@@ -352,7 +352,7 @@
             "open_issues": 78,
             "owner": "weaviate",
             "repo": "Verba",
-            "stars": 7698,
+            "stars": 7697,
             "topics": []
           },
           "first_seen": "2026-08-28T12:58:16.366Z"
@@ -373,7 +373,7 @@
             "open_issues": 33,
             "owner": "serge-chat",
             "repo": "serge",
-            "stars": 5704,
+            "stars": 5703,
             "topics": [
               "alpaca",
               "docker",
@@ -402,11 +402,11 @@
             "id": 267749451,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T17:01:24Z",
+            "last_commit": "2026-10-10T12:25:31Z",
             "open_issues": 51,
             "owner": "the-open-agent",
             "repo": "openagent",
-            "stars": 5681,
+            "stars": 5683,
             "topics": [
               "agent",
               "agentic",
@@ -447,7 +447,7 @@
             "open_issues": 175,
             "owner": "ParisNeo",
             "repo": "lollms-webui",
-            "stars": 4789,
+            "stars": 4790,
             "topics": [
               "ai",
               "llm",
@@ -514,7 +514,7 @@
             "open_issues": 19,
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1611,
+            "stars": 1612,
             "topics": [
               "ai",
               "assistant-chat-bots",
@@ -708,7 +708,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-10-09T17:13:29Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "sandialabs",
             "repo": "atlas-ui-3",
             "stars": 44,
@@ -780,7 +780,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:17:37.826Z",
+    "last_updated": "2026-10-11T07:20:24.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Large Language Model (LLM) Web User Interfaces.",
