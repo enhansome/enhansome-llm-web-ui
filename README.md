@@ -24,31 +24,31 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 156,879 | 🐛 189 | 🌐 Python | 📅 2026-10-27
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 83,516 | 🐛 1,169 | 🌐 TypeScript | 📅 2026-10-27
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 156,996 | 🐛 207 | 🌐 Python | 📅 2026-10-28
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 83,545 | 🐛 1,179 | 🌐 TypeScript | 📅 2026-10-28
 * [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,354 | 🐛 776 | 🌐 C++ | 📅 2025-05-27
-* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,728 | 🐛 866 | 🌐 Python | 📅 2026-08-17
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,149 | 🐛 1,190 | 🌐 Python | 📅 2026-10-27
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,912 | 🐛 114 | 🌐 Python | 📅 2026-10-27
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 34,997 | 🐛 681 | 🌐 JavaScript | 📅 2026-10-02
-* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,192 | 🐛 22 | 🌐 Python | 📅 2026-08-26
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,075 | 🐛 537 | 🌐 C++ | 📅 2026-10-26
+* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,724 | 🐛 866 | 🌐 Python | 📅 2026-08-17
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,156 | 🐛 1,192 | 🌐 Python | 📅 2026-10-28
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,926 | 🐛 112 | 🌐 Python | 📅 2026-10-28
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,034 | 🐛 682 | 🌐 JavaScript | 📅 2026-10-02
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,196 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,083 | 🐛 538 | 🌐 C++ | 📅 2026-10-28
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,001 | 🐛 312 | 🌐 TypeScript | 📅 2026-10-26
+* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,003 | 🐛 310 | 🌐 TypeScript | 📅 2026-10-28
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,714 | 🐛 51 | 🌐 Go | 📅 2026-10-27
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,716 | 🐛 51 | 🌐 Go | 📅 2026-10-27
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,792 | 🐛 176 | 🌐 Python | 📅 2026-10-21
-* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,037 | 🐛 0 | 🌐 Vue | 📅 2026-10-26
+* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,040 | 🐛 0 | 🌐 Vue | 📅 2026-10-27
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,785 | 🐛 60 | 🌐 JavaScript | 📅 2025-05-15
 * [Amica](https://github.com/semperai/amica) ⭐ 1,617 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22
 * [Exui](https://github.com/turboderp/exui) ⭐ 517 | 🐛 37 | 🌐 JavaScript | 📅 2025-02-05
 * [ChainFury](https://github.com/NimbleBoxAI/ChainFury) ⚠️ Archived
-* [Reflex Chat](https://github.com/reflex-dev/reflex-chat) ⭐ 342 | 🐛 3 | 🌐 Python | 📅 2026-06-02
+* [Reflex Chat](https://github.com/reflex-dev/reflex-chat) ⭐ 343 | 🐛 3 | 🌐 Python | 📅 2026-06-02
 * [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 171 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
 * [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17
 * [NoLLMChat](https://github.com/zrg-team/NoLLMChat) ⭐ 54 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03
-* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 44 | 🐛 48 | 🌐 Python | 📅 2026-10-26
+* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 44 | 🐛 55 | 🌐 Python | 📅 2026-10-28
 * [LLM Multitool](https://github.com/sedwards2009/llm-multitool) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2024-06-13
 * [AI Messenger](https://github.com/shinomakoi/AI-Messenger) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-12-27
 * [Sanctum AI](https://sanctum.ai/)
@@ -70,4 +70,4 @@ We welcome all contributions to improve the repository. Please read through the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
