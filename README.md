@@ -24,22 +24,22 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 158,530 | 🐛 356 | 🌐 Svelte | 📅 2026-11-12
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 85,231 | 🐛 1,329 | 🌐 TypeScript | 📅 2026-11-13
-* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,350 | 🐛 775 | 🌐 C++ | 📅 2025-05-27
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 158,606 | 🐛 325 | 🌐 Svelte | 📅 2026-11-14
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 85,464 | 🐛 1,349 | 🌐 TypeScript | 📅 2026-11-14
+* [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,344 | 🐛 775 | 🌐 C++ | 📅 2025-05-27
 * [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,740 | 🐛 867 | 🌐 Python | 📅 2026-08-17
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,337 | 🐛 1,186 | 🌐 Python | 📅 2026-11-13
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 44,039 | 🐛 112 | 🌐 Python | 📅 2026-11-13
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,581 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-02
-* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,194 | 🐛 22 | 🌐 Python | 📅 2026-08-26
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,303 | 🐛 546 | 🌐 C++ | 📅 2026-11-11
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,349 | 🐛 1,185 | 🌐 Python | 📅 2026-11-14
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 44,053 | 🐛 113 | 🌐 Python | 📅 2026-11-13
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,610 | 🐛 711 | 🌐 JavaScript | 📅 2026-10-02
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,195 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,312 | 🐛 546 | 🌐 C++ | 📅 2026-11-13
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,032 | 🐛 325 | 🌐 TypeScript | 📅 2026-11-13
+* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,034 | 🐛 326 | 🌐 TypeScript | 📅 2026-11-13
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,742 | 🐛 52 | 🌐 Go | 📅 2026-11-06
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,742 | 🐛 50 | 🌐 Go | 📅 2026-11-06
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,794 | 🐛 178 | 🌐 Python | 📅 2026-11-03
-* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,057 | 🐛 2 | 🌐 Vue | 📅 2026-11-13
+* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,057 | 🐛 1 | 🌐 Vue | 📅 2026-11-14
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,788 | 🐛 60 | 🌐 JavaScript | 📅 2025-05-15
 * [Amica](https://github.com/semperai/amica) ⭐ 1,626 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-12
 * [Exui](https://github.com/turboderp/exui) ⭐ 517 | 🐛 37 | 🌐 JavaScript | 📅 2025-02-05
@@ -48,7 +48,7 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 * [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 171 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
 * [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17
 * [NoLLMChat](https://github.com/zrg-team/NoLLMChat) ⭐ 54 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03
-* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 47 | 🐛 36 | 🌐 Python | 📅 2026-11-12
+* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 47 | 🐛 40 | 🌐 Python | 📅 2026-11-13
 * [LLM Multitool](https://github.com/sedwards2009/llm-multitool) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2024-06-13
 * [AI Messenger](https://github.com/shinomakoi/AI-Messenger) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-12-27
 * [Sanctum AI](https://sanctum.ai/)
@@ -70,4 +70,4 @@ We welcome all contributions to improve the repository. Please read through the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
