@@ -24,22 +24,22 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 
 ## 📚 Contents
 
-* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 159,240 | 🐛 283 | 🌐 Svelte | 📅 2026-11-21
-* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 85,967 | 🐛 1,464 | 🌐 TypeScript | 📅 2026-11-22
+* [Open WebUI (formerly: Ollama WebUI)](https://github.com/open-webui/open-webui) ⭐ 159,314 | 🐛 289 | 🌐 Svelte | 📅 2026-11-22
+* [Lobe Chat](https://github.com/lobehub/lobe-chat) ⭐ 86,025 | 🐛 1,461 | 🌐 TypeScript | 📅 2026-11-23
 * [GPT-4All](https://github.com/nomic-ai/gpt4all) ⭐ 77,327 | 🐛 772 | 🌐 C++ | 📅 2025-05-27
-* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,736 | 🐛 868 | 🌐 Python | 📅 2026-08-17
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,476 | 🐛 1,198 | 🌐 Python | 📅 2026-11-22
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 44,120 | 🐛 117 | 🌐 Python | 📅 2026-11-22
-* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,935 | 🐛 536 | 🌐 JavaScript | 📅 2026-11-21
-* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,190 | 🐛 22 | 🌐 Python | 📅 2026-08-26
-* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,358 | 🐛 541 | 🌐 C++ | 📅 2026-11-22
+* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,739 | 🐛 869 | 🌐 Python | 📅 2026-08-17
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 46,485 | 🐛 1,201 | 🌐 Python | 📅 2026-11-23
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 44,131 | 🐛 118 | 🌐 Python | 📅 2026-11-22
+* [Silly Tavern](https://github.com/SillyTavern/SillyTavern) ⭐ 35,969 | 🐛 540 | 🌐 JavaScript | 📅 2026-11-22
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,192 | 🐛 22 | 🌐 Python | 📅 2026-08-26
+* [KoboldAI](https://github.com/LostRuins/koboldcpp) ⭐ 12,369 | 🐛 544 | 🌐 C++ | 📅 2026-11-22
 * [H2O GPT](https://github.com/h2oai/h2ogpt) ⚠️ Archived
-* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,045 | 🐛 328 | 🌐 TypeScript | 📅 2026-11-19
+* [Hugging Face Chat UI](https://github.com/huggingface/chat-ui) ⭐ 11,045 | 🐛 329 | 🌐 TypeScript | 📅 2026-11-19
 * [Verba by Weaviate](https://github.com/weaviate/verba) ⚠️ Archived
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,755 | 🐛 49 | 🌐 Go | 📅 2026-11-06
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,753 | 🐛 49 | 🌐 Go | 📅 2026-11-06
 * [Serge Chat](https://github.com/serge-chat/serge) ⚠️ Archived
 * [Lollms WebUI](https://github.com/ParisNeo/lollms-webui/) ⭐ 4,790 | 🐛 179 | 🌐 Python | 📅 2026-11-03
-* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,058 | 🐛 1 | 🌐 Vue | 📅 2026-11-21
+* [Markstream — Streaming Markdown for AI Chat](https://github.com/Simon-He95/markstream-vue) ⭐ 3,059 | 🐛 0 | 🌐 Vue | 📅 2026-11-23
 * [Chat UI Kit for React by ChatScope](https://github.com/chatscope/chat-ui-kit-react) ⭐ 1,788 | 🐛 59 | 🌐 JavaScript | 📅 2025-05-15
 * [Amica](https://github.com/semperai/amica) ⭐ 1,626 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-12
 * [Exui](https://github.com/turboderp/exui) ⭐ 515 | 🐛 37 | 🌐 JavaScript | 📅 2025-02-05
@@ -48,10 +48,10 @@ Stay tuned for updates and new additions to the collection of LLM WebUIs.
 * [Spellbook Docker](https://github.com/noco-ai/spellbook-docker) ⭐ 170 | 🐛 2 | 🌐 Shell | 📅 2024-05-01
 * [Chatbot-UI](https://github.com/ChristophHandschuh/chatbot-ui) ⭐ 111 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-17
 * [NoLLMChat](https://github.com/zrg-team/NoLLMChat) ⭐ 53 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-03
-* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 48 | 🐛 44 | 🌐 Python | 📅 2026-11-21
+* [Atlas UI 3](https://github.com/sandialabs/atlas-ui-3) ⭐ 48 | 🐛 45 | 🌐 Python | 📅 2026-11-23
 * [LLM Multitool](https://github.com/sedwards2009/llm-multitool) ⭐ 40 | 🐛 2 | 🌐 Go | 📅 2024-06-13
 * [AI Messenger](https://github.com/shinomakoi/AI-Messenger) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2023-12-27
-* [next-vibe (unbottled.ai)](https://github.com/techfreaque/next-vibe) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-22
+* [next-vibe (unbottled.ai)](https://github.com/techfreaque/next-vibe) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-23
 * [Claudius](https://github.com/PMDevSolutions/Claudius) ⭐ 1 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-16
 * [No Stairs Please MCP](https://nostairsplease.com/mcp) - Live music venue directory and remote MCP app/server for Claude, ChatGPT, and Cursor.
 * [Sanctum AI](https://sanctum.ai/)
@@ -73,4 +73,4 @@ We welcome all contributions to improve the repository. Please read through the 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
